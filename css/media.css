@@ -1,0 +1,321 @@
+@media(max-width:1526px){
+    .carousel {
+        left: 82px;
+    }
+    
+}
+
+@media(max-width:1406px){
+    .carousel {
+        left: 0;
+    }
+}
+@media(max-width:991px){
+    .carousel {
+        left: 80px;
+    }
+    .head-media-red{
+        width: 100%;
+    }
+    .head-yellow-meadia{
+        width: 100%;
+    }
+    .head-black-media{
+        width: 100%;
+    }
+    .text-header{
+        text-align: center;
+    }
+    .header-start{
+        padding-bottom: 20px;
+    }
+    .dollars{
+        text-align: center;
+        justify-content: center;
+    }
+    .text-header h1{
+        max-width: 100%;
+    }
+  .nav-form .fa-align-left{
+      display: none;
+      
+  }
+  .vip-class::after{
+     content: none;
+    
+  }
+  .nav-link i{
+      margin-left: 10px;
+      margin-top: 4px;
+  }
+  .lll {
+    display: none;
+     }
+     
+     .h2-yellow{
+        font-size: 32px;
+        
+    }
+     
+    .h2-yellow{ 
+        margin-left:0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .block-img{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+        
+        
+    }
+    .pink,.blue,.green{
+       
+       margin: auto;
+    }
+    .marging-place{
+       margin-bottom: 45px;
+       margin-top: 65px;
+    }
+    .top-star-menu {
+        display: flex;
+        align-items: center;
+        justify-content: center; 
+        margin-bottom: 11px;
+      }  
+      .price-menu{
+           display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 21px;
+      }
+     
+}
+
+@media(max-width:856px){
+    .carousel{
+   padding-right: 60px;
+    }
+}
+
+@media(max-width:810px){
+    .carousel {
+        left: 20px;
+    }
+}
+
+
+@media(max-width:767px){
+    /* .carousel-item1{
+        margin-left: 80px;
+    } */
+  .logo-2{
+      margin-right: 35px;
+  }
+  .icon-holder{
+      margin-left: 30px;
+  }
+.h2-yellow{
+    margin-right: 30px;
+}
+}
+@media(max-width:651px){
+    
+    .carousel-item1{
+       max-width: 250px;
+       max-height: 290px;
+       
+    }
+    
+  .logo-2{
+      margin-right: 20px;
+  }
+  .icon-holder{
+      margin-left: 20px;
+  }
+  .icons-end-instagram{
+      margin-right: 10px;
+  }
+  .icons-end-twitter{
+      margin-right: 10px;
+  }
+}
+
+@media(max-width:595px){
+    
+    label{
+       margin-left:0;
+    }
+   
+   
+}
+
+@media(max-width:580px){
+   .text-header h1{
+        font-size: 40px;
+    }
+     .h2-text{
+         font-size: 26px;
+     }
+     .carousel{
+         margin-right: 30px;
+     }
+}
+
+/* @media(max-width:576px){
+    .h2-yellow{
+          font-size: 32px;
+      }
+} */
+
+@media(max-width:575px){
+    
+    .carousel-item1{
+        max-width: 230px;
+        max-height: 280px;
+    }
+    
+    .last-stage{
+        flex-direction: column;
+        
+    } 
+    
+    label{
+        width: 100%;
+    } 
+    
+    .background-red{
+        padding: 50px;
+    
+        
+    }
+      .mmm{
+          display: none;
+      }
+      .carousel{
+          padding-right: 55px;
+        
+      }
+      
+ }
+ 
+
+ 
+ 
+ @media(max-width:509px){
+     
+    label input{
+        font-size: 15px;
+    }
+    
+  /*   label{
+        width: 400px;
+    } */
+    
+     .but-2{
+         font-size: 19px;
+     }
+ }
+
+ @media(max-width:487px){
+     .box-ctg{
+         font-size: 39px;
+     }
+ }
+ /*   label input{
+        font-size: 9px;
+    }*/
+ @media(max-width:400px){
+     
+    .carousel-item1 {
+        max-width: 180px;
+        max-height: 200px;
+    }
+    
+    label input{
+        font-size: 13px;
+    }
+    
+    .but-2{
+        font-size: 14px;
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    label{
+        flex-direction: column;
+    } 
+    
+    .h2-text{
+        font-size: 23px;
+ }
+ .text-space p{
+     padding-left: 18px;
+ }
+     .h2-yellow{
+         left: 20px;
+     }
+ }
+ 
+ @media(max-width:367px){
+      label input{
+        font-size: 13px;
+        
+ }
+ 
+
+}
+@media(max-width:354px){
+    .but-2{
+        font-size: 12px;
+    }
+ /*    label{
+        font-size: 300px;
+    } */
+    label input{
+        font-size: 12px;
+    }
+}
+
+
+@media(max-width:331px){
+    .star{
+        display: flex;
+    }
+    .but-2{
+       font-size: 10px;
+       margin-right: 15px;
+   }
+  /*  label{
+       font-size: 270px;
+   } */
+   label input{
+       font-size: 11px;
+   }
+   /* .text-space-end{
+       flex-direction: column;
+   } */
+}
+
+@media(max-width:320px){
+   .h2-text{
+       font-size: 20px;
+       margin-top: 80px;
+   }
+   .carousel{
+       padding-right: 30px;
+   }
+   
+   /* label{
+       font-size: 250px;
+   } */
+   label input{
+       font-size: 10px;
+}  
+
+} 
+ 
